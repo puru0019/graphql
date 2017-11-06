@@ -1,0 +1,11 @@
+{
+	"users" : [
+		{"id":"32","firstName":"Gopi","age":22,"companyId":"1"},
+		{"id":"43","firstName":"Nandu","age":20, "companyId":"2"},
+		{"id":"43","firstName":"Madhu","age":45, "companyId":"2"}
+	],
+	"company": [
+		{"id":"1","companyName":"Ness","description":"Service"},
+		{"id":"1","companyName":"Nissum","description":"Product"}
+	]
+}
