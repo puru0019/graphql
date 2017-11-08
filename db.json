@@ -1,11 +1,28 @@
 {
-	"users" : [
-		{"id":"32","firstName":"Gopi","age":22,"companyId":"1"},
-		{"id":"43","firstName":"Nandu","age":20, "companyId":"2"},
-		{"id":"43","firstName":"Madhu","age":45, "companyId":"2"}
-	],
-	"company": [
-		{"id":"1","companyName":"Ness","description":"Service"},
-		{"id":"1","companyName":"Nissum","description":"Product"}
-	]
+  "users": [
+    {
+      "firstName": "Nandu",
+      "age": 23,
+      "id": "23",
+      "companyId": "2"
+    },
+    {
+      "firstName": "Nandu",
+      "age": 40,
+      "id": "24",
+      "companyId": "1"
+    }
+  ],
+  "company": [
+    {
+      "id": "1",
+      "companyName": "Ness",
+      "description": "Service"
+    },
+    {
+      "id": "2",
+      "companyName": "Nissum",
+      "description": "Product"
+    }
+  ]
 }
